@@ -120,9 +120,9 @@ baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
+title: wangzhi@NJU
 description: 人生到处知何似，应似飞鸿踏雪泥
-theme: timemachine
+theme: time-machine
 disqusname: minixalpha
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
