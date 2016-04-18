@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: wangzhiNJU
-baseurl: /StrayBirds
+baseurl: /blog
 markdown: redcarpet
 safe: false
 highlighter: pygments
